@@ -1,0 +1,112 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #ddd;
+  justify-content: center;
+  padding: 1px;
+  
+}
+#dr{
+    background-color: #ddd;
+}
+.white{
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    background-color: white;
+
+}
+.caption{
+    font-size: 14px;
+    color: #555;
+    margin-top: 10px;
+    background-color: white;
+}
+
+.container {
+  height: 80px;
+text-align: center;
+background-color: #ddd;
+}
+#main{
+    background-image: white;
+    width: 800px;
+    max-width: 900px;
+    margin: 30px auto;
+    padding: 20px;
+    border-radius: 8px;
+}
+.timeline{
+    list-style-type: disc;
+    background-color: #ddd;
+}
+.timeline{
+    list-style-type: disc;
+    text-align: left;
+}
+.image-wraper {
+  text-align: center;
+  margin-bottom: 15px;
+  background-color: white;
+}
+
+.image-wraper img {
+  max-width: 100%;
+  border-radius: 6px;
+}
+
+.caption {
+  text-align: center;
+  font-size: 14px;
+  color: #666;
+  margin-bottom: 30px;
+}
+
+
+.section-title {
+  text-align: center;
+  font-size: 25px;
+  margin-bottom: 15px;
+  margin-top: 40px;
+  background-color: #ddd;
+}
+
+.quote {
+  font-style: italic;
+  background: #ddd;
+  padding: 15px;
+  border-left: 4px ;
+  margin-top: 20px;
+  border-radius: 4px;
+  background-color: #ddd;
+}
+
+.more-info {
+  text-align: center;
+  font-size: 10px;
+  color: #444;
+  margin-top: 25px;
+  padding-bottom: 20px;
+  background-color: #ddd;
+}
+#white{
+    background-color: white;
+    padding: 40px;
+    margin: 0px;
+    border-radius: 20px;
+}
+#main{
+    background: #ddd;
+}
+.photo{
+    background-color: white;
+}
+#wik{
+    color: blue;
+}
+
+.section {
+    background-color: white;
+
+
+}
