@@ -53,7 +53,7 @@ figcaption {
 }
 .quote {
   width: 60%;
-  margin: 40px;
+  margin: 40px auto;
   font-style: italic;
   color: #333;
   line-height: 1.5;
